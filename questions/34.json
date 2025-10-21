@@ -1,0 +1,3949 @@
+{
+  "problemsetQuestionListV2": {
+    "questions": [
+      {
+        "difficulty": "MEDIUM",
+        "id": 3510,
+        "paidOnly": false,
+        "questionFrontendId": "3301",
+        "status": "TO_DO",
+        "title": "Maximize the Total Height of Unique Towers",
+        "titleSlug": "maximize-the-total-height-of-unique-towers",
+        "translatedTitle": "高度互不相同的最大塔高和",
+        "topicTags": [
+          {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.45025658003641783,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3584,
+        "paidOnly": false,
+        "questionFrontendId": "3302",
+        "status": "TO_DO",
+        "title": "Find the Lexicographically Smallest Valid Sequence",
+        "titleSlug": "find-the-lexicographically-smallest-valid-sequence",
+        "translatedTitle": "字典序最小的合法序列",
+        "topicTags": [
+          {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.29487380467157864,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3580,
+        "paidOnly": false,
+        "questionFrontendId": "3303",
+        "status": "TO_DO",
+        "title": "Find the Occurrence of First Almost Equal Substring",
+        "titleSlug": "find-the-occurrence-of-first-almost-equal-substring",
+        "translatedTitle": "第一个几乎相等子字符串的下标",
+        "topicTags": [
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "ydzvgh",
+            "name": "String Matching",
+            "slug": "string-matching",
+            "nameTranslated": "字符串匹配",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.32976123331453283,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3600,
+        "paidOnly": false,
+        "questionFrontendId": "3304",
+        "status": "TO_DO",
+        "title": "Find the K-th Character in String Game I",
+        "titleSlug": "find-the-k-th-character-in-string-game-i",
+        "translatedTitle": "找出第 K 个字符 I",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xeyjfe6",
+            "name": "Simulation",
+            "slug": "simulation",
+            "nameTranslated": "模拟",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7809384164222873,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3570,
+        "paidOnly": false,
+        "questionFrontendId": "3305",
+        "status": "TO_DO",
+        "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+        "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+        "translatedTitle": "元音辅音字符串计数 I",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5084428276685851,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3569,
+        "paidOnly": false,
+        "questionFrontendId": "3306",
+        "status": "TO_DO",
+        "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+        "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+        "translatedTitle": "元音辅音字符串计数 II",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5242256869188282,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3601,
+        "paidOnly": false,
+        "questionFrontendId": "3307",
+        "status": "TO_DO",
+        "title": "Find the K-th Character in String Game II",
+        "titleSlug": "find-the-k-th-character-in-string-game-ii",
+        "translatedTitle": "找出第 K 个字符 II",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nbdc3",
+            "name": "Recursion",
+            "slug": "recursion",
+            "nameTranslated": "递归",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5375256203392788,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3624,
+        "paidOnly": true,
+        "questionFrontendId": "3308",
+        "status": "TO_DO",
+        "title": "Find Top Performing Driver",
+        "titleSlug": "find-top-performing-driver",
+        "translatedTitle": "寻找表现最佳的司机",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4788732394366197,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3579,
+        "paidOnly": false,
+        "questionFrontendId": "3309",
+        "status": "TO_DO",
+        "title": "Maximum Possible Number by Binary Concatenation",
+        "titleSlug": "maximum-possible-number-by-binary-concatenation",
+        "translatedTitle": "连接二进制表示可形成的最大数值",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "2men8m",
+            "name": "Enumeration",
+            "slug": "enumeration",
+            "nameTranslated": "枚举",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6832244008714597,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3561,
+        "paidOnly": false,
+        "questionFrontendId": "3310",
+        "status": "TO_DO",
+        "title": "Remove Methods From Project",
+        "titleSlug": "remove-methods-from-project",
+        "translatedTitle": "移除可疑的方法",
+        "topicTags": [
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n30w2",
+            "name": "Breadth-First Search",
+            "slug": "breadth-first-search",
+            "nameTranslated": "广度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.46669213139801374,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3578,
+        "paidOnly": false,
+        "questionFrontendId": "3311",
+        "status": "TO_DO",
+        "title": "Construct 2D Grid Matching Graph Layout",
+        "titleSlug": "construct-2d-grid-matching-graph-layout",
+        "translatedTitle": "构造符合图结构的二维矩阵",
+        "topicTags": [
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.33947301100025584,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3583,
+        "paidOnly": false,
+        "questionFrontendId": "3312",
+        "status": "TO_DO",
+        "title": "Sorted GCD Pair Queries",
+        "titleSlug": "sorted-gcd-pair-queries",
+        "translatedTitle": "查询排序后的最大公约数",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "rwhb85",
+            "name": "Combinatorics",
+            "slug": "combinatorics",
+            "nameTranslated": "组合数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "pxpqcm",
+            "name": "Counting",
+            "slug": "counting",
+            "nameTranslated": "计数",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "3vubuc",
+            "name": "Number Theory",
+            "slug": "number-theory",
+            "nameTranslated": "数论",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.39908675799086757,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3497,
+        "paidOnly": true,
+        "questionFrontendId": "3313",
+        "status": "TO_DO",
+        "title": "Find the Last Marked Nodes in Tree",
+        "titleSlug": "find-the-last-marked-nodes-in-tree",
+        "translatedTitle": "查找树中最后标记的节点",
+        "topicTags": [
+          {
+            "id": "nt875",
+            "name": "Tree",
+            "slug": "tree",
+            "nameTranslated": "树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.0792,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3605,
+        "paidOnly": false,
+        "questionFrontendId": "3314",
+        "status": "TO_DO",
+        "title": "Construct the Minimum Bitwise Array I",
+        "titleSlug": "construct-the-minimum-bitwise-array-i",
+        "translatedTitle": "构造最小位运算数组 I",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.8207190160832545,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3611,
+        "paidOnly": false,
+        "questionFrontendId": "3315",
+        "status": "TO_DO",
+        "title": "Construct the Minimum Bitwise Array II",
+        "titleSlug": "construct-the-minimum-bitwise-array-ii",
+        "translatedTitle": "构造最小位运算数组 II",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6114727420667209,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3487,
+        "paidOnly": false,
+        "questionFrontendId": "3316",
+        "status": "TO_DO",
+        "title": "Find Maximum Removals From Source String",
+        "titleSlug": "find-maximum-removals-from-source-string",
+        "translatedTitle": "从原字符串里进行删除操作的最多次数",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5840962125291689,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3604,
+        "paidOnly": false,
+        "questionFrontendId": "3317",
+        "status": "TO_DO",
+        "title": "Find the Number of Possible Ways for an Event",
+        "titleSlug": "find-the-number-of-possible-ways-for-an-event",
+        "translatedTitle": "安排活动的方案数",
+        "topicTags": [
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "rwhb85",
+            "name": "Combinatorics",
+            "slug": "combinatorics",
+            "nameTranslated": "组合数学",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5174168297455969,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3610,
+        "paidOnly": false,
+        "questionFrontendId": "3318",
+        "status": "TO_DO",
+        "title": "Find X-Sum of All K-Long Subarrays I",
+        "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+        "translatedTitle": "计算子数组的 x-sum I",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6656465187452181,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3509,
+        "paidOnly": false,
+        "questionFrontendId": "3319",
+        "status": "TO_DO",
+        "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+        "titleSlug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+        "translatedTitle": "第 K 大的完美二叉子树的大小",
+        "topicTags": [
+          {
+            "id": "nt875",
+            "name": "Tree",
+            "slug": "tree",
+            "nameTranslated": "树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "ehgq01",
+            "name": "Binary Tree",
+            "slug": "binary-tree",
+            "nameTranslated": "二叉树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6310003664345915,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3588,
+        "paidOnly": false,
+        "questionFrontendId": "3320",
+        "status": "TO_DO",
+        "title": "Count The Number of Winning Sequences",
+        "titleSlug": "count-the-number-of-winning-sequences",
+        "translatedTitle": "统计能获胜的出招序列数",
+        "topicTags": [
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.45605547492339943,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3592,
+        "paidOnly": false,
+        "questionFrontendId": "3321",
+        "status": "TO_DO",
+        "title": "Find X-Sum of All K-Long Subarrays II",
+        "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+        "translatedTitle": "计算子数组的 x-sum II",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.32935560859188545,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3642,
+        "paidOnly": true,
+        "questionFrontendId": "3322",
+        "status": "TO_DO",
+        "title": "Premier League Table Ranking III",
+        "titleSlug": "premier-league-table-ranking-iii",
+        "translatedTitle": "英超积分榜排名 III",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7305785123966942,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3565,
+        "paidOnly": true,
+        "questionFrontendId": "3323",
+        "status": "TO_DO",
+        "title": "Minimize Connected Groups by Inserting Interval",
+        "titleSlug": "minimize-connected-groups-by-inserting-interval",
+        "translatedTitle": "通过插入区间最小化连通组",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.2960069444444444,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3566,
+        "paidOnly": false,
+        "questionFrontendId": "3324",
+        "status": "TO_DO",
+        "title": "Find the Sequence of Strings Appeared on the Screen",
+        "titleSlug": "find-the-sequence-of-strings-appeared-on-the-screen",
+        "translatedTitle": "出现在屏幕上的字符串序列",
+        "topicTags": [
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xeyjfe6",
+            "name": "Simulation",
+            "slug": "simulation",
+            "nameTranslated": "模拟",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.8103299856527977,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3502,
+        "paidOnly": false,
+        "questionFrontendId": "3325",
+        "status": "TO_DO",
+        "title": "Count Substrings With K-Frequency Characters I",
+        "titleSlug": "count-substrings-with-k-frequency-characters-i",
+        "translatedTitle": "字符至少出现 K 次的子字符串 I",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7085201793721974,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3607,
+        "paidOnly": false,
+        "questionFrontendId": "3326",
+        "status": "TO_DO",
+        "title": "Minimum Division Operations to Make Array Non Decreasing",
+        "titleSlug": "minimum-division-operations-to-make-array-non-decreasing",
+        "translatedTitle": "使数组非递减的最少除法操作次数",
+        "topicTags": [
+          {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "3vubuc",
+            "name": "Number Theory",
+            "slug": "number-theory",
+            "nameTranslated": "数论",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.31213394448688564,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3603,
+        "paidOnly": false,
+        "questionFrontendId": "3327",
+        "status": "TO_DO",
+        "title": "Check if DFS Strings Are Palindromes",
+        "titleSlug": "check-if-dfs-strings-are-palindromes",
+        "translatedTitle": "判断 DFS 字符串是否是回文串",
+        "topicTags": [
+          {
+            "id": "nt875",
+            "name": "Tree",
+            "slug": "tree",
+            "nameTranslated": "树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2e97i",
+            "name": "Hash Function",
+            "slug": "hash-function",
+            "nameTranslated": "哈希函数",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.2875215641173088,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3650,
+        "paidOnly": true,
+        "questionFrontendId": "3328",
+        "status": "TO_DO",
+        "title": "Find Cities in Each State II",
+        "titleSlug": "find-cities-in-each-state-ii",
+        "translatedTitle": "查找每个州的城市 II",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5748251748251748,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3499,
+        "paidOnly": true,
+        "questionFrontendId": "3329",
+        "status": "TO_DO",
+        "title": "Count Substrings With K-Frequency Characters II",
+        "titleSlug": "count-substrings-with-k-frequency-characters-ii",
+        "translatedTitle": "字符至少出现 K 次的子字符串 II",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.27340267459138184,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3617,
+        "paidOnly": false,
+        "questionFrontendId": "3330",
+        "status": "TO_DO",
+        "title": "Find the Original Typed String I",
+        "titleSlug": "find-the-original-typed-string-i",
+        "translatedTitle": "找到初始输入字符串 I",
+        "topicTags": [
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7511389729197798,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3576,
+        "paidOnly": false,
+        "questionFrontendId": "3331",
+        "status": "TO_DO",
+        "title": "Find Subtree Sizes After Changes",
+        "titleSlug": "find-subtree-sizes-after-changes",
+        "translatedTitle": "修改后子树的大小",
+        "topicTags": [
+          {
+            "id": "nt875",
+            "name": "Tree",
+            "slug": "tree",
+            "nameTranslated": "树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.3948778038165383,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3587,
+        "paidOnly": false,
+        "questionFrontendId": "3332",
+        "status": "TO_DO",
+        "title": "Maximum Points Tourist Can Earn",
+        "titleSlug": "maximum-points-tourist-can-earn",
+        "translatedTitle": "旅客可以得到的最多点数",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5548686244204019,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3618,
+        "paidOnly": false,
+        "questionFrontendId": "3333",
+        "status": "TO_DO",
+        "title": "Find the Original Typed String II",
+        "titleSlug": "find-the-original-typed-string-ii",
+        "translatedTitle": "找到初始输入字符串 II",
+        "topicTags": [
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4389042175798187,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3593,
+        "paidOnly": false,
+        "questionFrontendId": "3334",
+        "status": "TO_DO",
+        "title": "Find the Maximum Factor Score of Array",
+        "titleSlug": "find-the-maximum-factor-score-of-array",
+        "translatedTitle": "数组的最大因子得分",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "3vubuc",
+            "name": "Number Theory",
+            "slug": "number-theory",
+            "nameTranslated": "数论",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4558020287593356,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3629,
+        "paidOnly": false,
+        "questionFrontendId": "3335",
+        "status": "TO_DO",
+        "title": "Total Characters in String After Transformations I",
+        "titleSlug": "total-characters-in-string-after-transformations-i",
+        "translatedTitle": "字符串转换后的长度 I",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "pxpqcm",
+            "name": "Counting",
+            "slug": "counting",
+            "nameTranslated": "计数",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.47332786755177064,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3608,
+        "paidOnly": false,
+        "questionFrontendId": "3336",
+        "status": "TO_DO",
+        "title": "Find the Number of Subsequences With Equal GCD",
+        "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+        "translatedTitle": "最大公约数相等的子序列数量",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "3vubuc",
+            "name": "Number Theory",
+            "slug": "number-theory",
+            "nameTranslated": "数论",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5548172757475083,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3630,
+        "paidOnly": false,
+        "questionFrontendId": "3337",
+        "status": "TO_DO",
+        "title": "Total Characters in String After Transformations II",
+        "titleSlug": "total-characters-in-string-after-transformations-ii",
+        "translatedTitle": "字符串转换后的长度 II",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "pxpqcm",
+            "name": "Counting",
+            "slug": "counting",
+            "nameTranslated": "计数",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5468686250509996,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3660,
+        "paidOnly": true,
+        "questionFrontendId": "3338",
+        "status": "TO_DO",
+        "title": "Second Highest Salary II",
+        "titleSlug": "second-highest-salary-ii",
+        "translatedTitle": "第二高的薪水 II",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.893760539629005,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3614,
+        "paidOnly": true,
+        "questionFrontendId": "3339",
+        "status": "TO_DO",
+        "title": "Find the Number of K-Even Arrays",
+        "titleSlug": "find-the-number-of-k-even-arrays",
+        "translatedTitle": "查找 K 偶数数组的数量",
+        "topicTags": [
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.3231622746185853,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3636,
+        "paidOnly": false,
+        "questionFrontendId": "3340",
+        "status": "TO_DO",
+        "title": "Check Balanced String",
+        "titleSlug": "check-balanced-string",
+        "translatedTitle": "检查平衡字符串",
+        "topicTags": [
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.8593041833773517,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3627,
+        "paidOnly": false,
+        "questionFrontendId": "3341",
+        "status": "TO_DO",
+        "title": "Find Minimum Time to Reach Last Room I",
+        "titleSlug": "find-minimum-time-to-reach-last-room-i",
+        "translatedTitle": "到达最后一个房间的最少时间 I",
+        "topicTags": [
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "48rxpj",
+            "name": "Shortest Path",
+            "slug": "shortest-path",
+            "nameTranslated": "最短路",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4962915458398394,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3628,
+        "paidOnly": false,
+        "questionFrontendId": "3342",
+        "status": "TO_DO",
+        "title": "Find Minimum Time to Reach Last Room II",
+        "titleSlug": "find-minimum-time-to-reach-last-room-ii",
+        "translatedTitle": "到达最后一个房间的最少时间 II",
+        "topicTags": [
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "48rxpj",
+            "name": "Shortest Path",
+            "slug": "shortest-path",
+            "nameTranslated": "最短路",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5970143923431306,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3637,
+        "paidOnly": false,
+        "questionFrontendId": "3343",
+        "status": "TO_DO",
+        "title": "Count Number of Balanced Permutations",
+        "titleSlug": "count-number-of-balanced-permutations",
+        "translatedTitle": "统计平衡排列的数目",
+        "topicTags": [
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "rwhb85",
+            "name": "Combinatorics",
+            "slug": "combinatorics",
+            "nameTranslated": "组合数学",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5244002784986391,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3679,
+        "paidOnly": true,
+        "questionFrontendId": "3344",
+        "status": "TO_DO",
+        "title": "Maximum Sized Array",
+        "titleSlug": "maximum-sized-array",
+        "translatedTitle": "最大尺寸数组",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.16476774758983348,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3626,
+        "paidOnly": false,
+        "questionFrontendId": "3345",
+        "status": "TO_DO",
+        "title": "Smallest Divisible Digit Product I",
+        "titleSlug": "smallest-divisible-digit-product-i",
+        "translatedTitle": "最小可整除数位乘积 I",
+        "topicTags": [
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "2men8m",
+            "name": "Enumeration",
+            "slug": "enumeration",
+            "nameTranslated": "枚举",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6702393712040015,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3622,
+        "paidOnly": false,
+        "questionFrontendId": "3346",
+        "status": "TO_DO",
+        "title": "Maximum Frequency of an Element After Performing Operations I",
+        "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+        "translatedTitle": "执行操作后元素的最高频率 I",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.26447158789166225,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3640,
+        "paidOnly": false,
+        "questionFrontendId": "3347",
+        "status": "TO_DO",
+        "title": "Maximum Frequency of an Element After Performing Operations II",
+        "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+        "translatedTitle": "执行操作后元素的最高频率 II",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.42927920728783764,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3635,
+        "paidOnly": false,
+        "questionFrontendId": "3348",
+        "status": "TO_DO",
+        "title": "Smallest Divisible Digit Product II",
+        "titleSlug": "smallest-divisible-digit-product-ii",
+        "translatedTitle": "最小可整除数位乘积 II",
+        "topicTags": [
+          {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "3vubuc",
+            "name": "Number Theory",
+            "slug": "number-theory",
+            "nameTranslated": "数论",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.24896035486553922,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3612,
+        "paidOnly": false,
+        "questionFrontendId": "3349",
+        "status": "TO_DO",
+        "title": "Adjacent Increasing Subarrays Detection I",
+        "titleSlug": "adjacent-increasing-subarrays-detection-i",
+        "translatedTitle": "检测相邻递增子数组 I",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4605087620124364,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3619,
+        "paidOnly": false,
+        "questionFrontendId": "3350",
+        "status": "TO_DO",
+        "title": "Adjacent Increasing Subarrays Detection II",
+        "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+        "translatedTitle": "检测相邻递增子数组 II",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5499703360120813,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3646,
+        "paidOnly": false,
+        "questionFrontendId": "3351",
+        "status": "TO_DO",
+        "title": "Sum of Good Subsequences",
+        "titleSlug": "sum-of-good-subsequences",
+        "translatedTitle": "好子序列的元素之和",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.35251798561151076,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3631,
+        "paidOnly": false,
+        "questionFrontendId": "3352",
+        "status": "TO_DO",
+        "title": "Count K-Reducible Numbers Less Than N",
+        "titleSlug": "count-k-reducible-numbers-less-than-n",
+        "translatedTitle": "统计小于 N 的 K 可约简整数",
+        "topicTags": [
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "rwhb85",
+            "name": "Combinatorics",
+            "slug": "combinatorics",
+            "nameTranslated": "组合数学",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5053407934893184,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3694,
+        "paidOnly": true,
+        "questionFrontendId": "3353",
+        "status": "TO_DO",
+        "title": "Minimum Total Operations",
+        "titleSlug": "minimum-total-operations",
+        "translatedTitle": "最小总操作数",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.224910394265233,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3616,
+        "paidOnly": false,
+        "questionFrontendId": "3354",
+        "status": "TO_DO",
+        "title": "Make Array Elements Equal to Zero",
+        "titleSlug": "make-array-elements-equal-to-zero",
+        "translatedTitle": "使数组元素等于零",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xeyjfe6",
+            "name": "Simulation",
+            "slug": "simulation",
+            "nameTranslated": "模拟",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5615938137686607,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3639,
+        "paidOnly": false,
+        "questionFrontendId": "3355",
+        "status": "TO_DO",
+        "title": "Zero Array Transformation I",
+        "titleSlug": "zero-array-transformation-i",
+        "translatedTitle": "零数组变换 I",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5563337792817608,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3643,
+        "paidOnly": false,
+        "questionFrontendId": "3356",
+        "status": "TO_DO",
+        "title": "Zero Array Transformation II",
+        "titleSlug": "zero-array-transformation-ii",
+        "translatedTitle": "零数组变换 II",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4513114580014867,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3658,
+        "paidOnly": false,
+        "questionFrontendId": "3357",
+        "status": "TO_DO",
+        "title": "Minimize the Maximum Adjacent Element Difference",
+        "titleSlug": "minimize-the-maximum-adjacent-element-difference",
+        "translatedTitle": "最小化相邻元素的最大差值",
+        "topicTags": [
+          {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.25325842696629214,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3695,
+        "paidOnly": true,
+        "questionFrontendId": "3358",
+        "status": "TO_DO",
+        "title": "Books with NULL Ratings",
+        "titleSlug": "books-with-null-ratings",
+        "translatedTitle": "评分为 NULL 的图书",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.8674884437596302,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3652,
+        "paidOnly": true,
+        "questionFrontendId": "3359",
+        "status": "TO_DO",
+        "title": "Find Sorted Submatrices With Maximum Element at Most K",
+        "titleSlug": "find-sorted-submatrices-with-maximum-element-at-most-k",
+        "translatedTitle": "查找最大元素不超过 K 的有序子矩阵",
+        "topicTags": [
+          {
+            "id": "nn04j",
+            "name": "Stack",
+            "slug": "stack",
+            "nameTranslated": "栈",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xeyj5r5",
+            "name": "Monotonic Stack",
+            "slug": "monotonic-stack",
+            "nameTranslated": "单调栈",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.190521327014218,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3625,
+        "paidOnly": false,
+        "questionFrontendId": "3360",
+        "status": "TO_DO",
+        "title": "Stone Removal Game",
+        "titleSlug": "stone-removal-game",
+        "translatedTitle": "移除石头游戏",
+        "topicTags": [
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xeyjfe6",
+            "name": "Simulation",
+            "slug": "simulation",
+            "nameTranslated": "模拟",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5596812988574865,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3591,
+        "paidOnly": false,
+        "questionFrontendId": "3361",
+        "status": "TO_DO",
+        "title": "Shift Distance Between Two Strings",
+        "titleSlug": "shift-distance-between-two-strings",
+        "translatedTitle": "两个字符串的切换距离",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5650835011251925,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3647,
+        "paidOnly": false,
+        "questionFrontendId": "3362",
+        "status": "TO_DO",
+        "title": "Zero Array Transformation III",
+        "titleSlug": "zero-array-transformation-iii",
+        "translatedTitle": "零数组变换 III",
+        "topicTags": [
+          {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5939934454413582,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3648,
+        "paidOnly": false,
+        "questionFrontendId": "3363",
+        "status": "TO_DO",
+        "title": "Find the Maximum Number of Fruits Collected",
+        "titleSlug": "find-the-maximum-number-of-fruits-collected",
+        "translatedTitle": "最多可收集的水果数目",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6143487346180636,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3644,
+        "paidOnly": false,
+        "questionFrontendId": "3364",
+        "status": "TO_DO",
+        "title": "Minimum Positive Sum Subarray ",
+        "titleSlug": "minimum-positive-sum-subarray",
+        "translatedTitle": "最小正和子数组",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "x571onh",
+            "name": "Sliding Window",
+            "slug": "sliding-window",
+            "nameTranslated": "滑动窗口",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5069807347320802,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3595,
+        "paidOnly": false,
+        "questionFrontendId": "3365",
+        "status": "TO_DO",
+        "title": "Rearrange K Substrings to Form Target String",
+        "titleSlug": "rearrange-k-substrings-to-form-target-string",
+        "translatedTitle": "重排子字符串以形成目标字符串",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.44907731838355525,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3654,
+        "paidOnly": false,
+        "questionFrontendId": "3366",
+        "status": "TO_DO",
+        "title": "Minimum Array Sum",
+        "titleSlug": "minimum-array-sum",
+        "translatedTitle": "最小数组和",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.33193821624314895,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3675,
+        "paidOnly": false,
+        "questionFrontendId": "3367",
+        "status": "TO_DO",
+        "title": "Maximize Sum of Weights after Edge Removals",
+        "titleSlug": "maximize-sum-of-weights-after-edge-removals",
+        "translatedTitle": "移除边之后的权重最大和",
+        "topicTags": [
+          {
+            "id": "nt875",
+            "name": "Tree",
+            "slug": "tree",
+            "nameTranslated": "树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.2962260572728997,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3703,
+        "paidOnly": true,
+        "questionFrontendId": "3368",
+        "status": "TO_DO",
+        "title": "First Letter Capitalization",
+        "titleSlug": "first-letter-capitalization",
+        "translatedTitle": "首字母大写",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7228571428571429,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3710,
+        "paidOnly": true,
+        "questionFrontendId": "3369",
+        "status": "TO_DO",
+        "title": "Design an Array Statistics Tracker ",
+        "titleSlug": "design-an-array-statistics-tracker",
+        "translatedTitle": "设计数组统计跟踪器",
+        "topicTags": [
+          {
+            "id": "nzbej",
+            "name": "Design",
+            "slug": "design",
+            "nameTranslated": "设计",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "vxfk6",
+            "name": "Queue",
+            "slug": "queue",
+            "nameTranslated": "队列",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "pgti0i",
+            "name": "Data Stream",
+            "slug": "data-stream",
+            "nameTranslated": "数据流",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "qwy9jd",
+            "name": "Ordered Set",
+            "slug": "ordered-set",
+            "nameTranslated": "有序集合",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.35815602836879434,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3676,
+        "paidOnly": false,
+        "questionFrontendId": "3370",
+        "status": "TO_DO",
+        "title": "Smallest Number With All Set Bits",
+        "titleSlug": "smallest-number-with-all-set-bits",
+        "translatedTitle": "仅含置位位的最小整数",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.8183356158865706,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3594,
+        "paidOnly": false,
+        "questionFrontendId": "3371",
+        "status": "TO_DO",
+        "title": "Identify the Largest Outlier in an Array",
+        "titleSlug": "identify-the-largest-outlier-in-an-array",
+        "translatedTitle": "识别数组中的最大异常值",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "pxpqcm",
+            "name": "Counting",
+            "slug": "counting",
+            "nameTranslated": "计数",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "2men8m",
+            "name": "Enumeration",
+            "slug": "enumeration",
+            "nameTranslated": "枚举",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.367982212340189,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3633,
+        "paidOnly": false,
+        "questionFrontendId": "3372",
+        "status": "TO_DO",
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+        "translatedTitle": "连接两棵树后最大目标节点数目 I",
+        "topicTags": [
+          {
+            "id": "nt875",
+            "name": "Tree",
+            "slug": "tree",
+            "nameTranslated": "树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n30w2",
+            "name": "Breadth-First Search",
+            "slug": "breadth-first-search",
+            "nameTranslated": "广度优先搜索",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6487917907977491,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3645,
+        "paidOnly": false,
+        "questionFrontendId": "3373",
+        "status": "TO_DO",
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+        "translatedTitle": "连接两棵树后最大目标节点数目 II",
+        "topicTags": [
+          {
+            "id": "nt875",
+            "name": "Tree",
+            "slug": "tree",
+            "nameTranslated": "树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n30w2",
+            "name": "Breadth-First Search",
+            "slug": "breadth-first-search",
+            "nameTranslated": "广度优先搜索",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.642478813559322,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3711,
+        "paidOnly": false,
+        "questionFrontendId": "3374",
+        "status": "TO_DO",
+        "title": "First Letter Capitalization II",
+        "titleSlug": "first-letter-capitalization-ii",
+        "translatedTitle": "首字母大写 II",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4959499263622975,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3621,
+        "paidOnly": false,
+        "questionFrontendId": "3375",
+        "status": "TO_DO",
+        "title": "Minimum Operations to Make Array Values Equal to K",
+        "titleSlug": "minimum-operations-to-make-array-values-equal-to-k",
+        "translatedTitle": "使数组的值全部为 K 的最少操作次数",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7887697998672105,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3649,
+        "paidOnly": false,
+        "questionFrontendId": "3376",
+        "status": "TO_DO",
+        "title": "Minimum Time to Break Locks I",
+        "titleSlug": "minimum-time-to-break-locks-i",
+        "translatedTitle": "破解锁的最少时间 I",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dnl25",
+            "name": "Backtracking",
+            "slug": "backtracking",
+            "nameTranslated": "回溯",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "eeprrj",
+            "name": "Bitmask",
+            "slug": "bitmask",
+            "nameTranslated": "状态压缩",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.49736021118310536,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3655,
+        "paidOnly": false,
+        "questionFrontendId": "3377",
+        "status": "TO_DO",
+        "title": "Digit Operations to Make Two Integers Equal",
+        "titleSlug": "digit-operations-to-make-two-integers-equal",
+        "translatedTitle": "使两个整数相等的数位操作",
+        "topicTags": [
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "3vubuc",
+            "name": "Number Theory",
+            "slug": "number-theory",
+            "nameTranslated": "数论",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "48rxpj",
+            "name": "Shortest Path",
+            "slug": "shortest-path",
+            "nameTranslated": "最短路",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.3774778574441164,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3680,
+        "paidOnly": false,
+        "questionFrontendId": "3378",
+        "status": "TO_DO",
+        "title": "Count Connected Components in LCM Graph",
+        "titleSlug": "count-connected-components-in-lcm-graph",
+        "translatedTitle": "统计最小公倍数图中的连通块数目",
+        "topicTags": [
+          {
+            "id": "n6a2i",
+            "name": "Union Find",
+            "slug": "union-find",
+            "nameTranslated": "并查集",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "3vubuc",
+            "name": "Number Theory",
+            "slug": "number-theory",
+            "nameTranslated": "数论",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.3885012559307843,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3651,
+        "paidOnly": false,
+        "questionFrontendId": "3379",
+        "status": "TO_DO",
+        "title": "Transformed Array",
+        "titleSlug": "transformed-array",
+        "translatedTitle": "转换数组",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xeyjfe6",
+            "name": "Simulation",
+            "slug": "simulation",
+            "nameTranslated": "模拟",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5941450432468397,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3681,
+        "paidOnly": false,
+        "questionFrontendId": "3380",
+        "status": "TO_DO",
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "titleSlug": "maximum-area-rectangle-with-point-constraints-i",
+        "translatedTitle": "用点构造面积最大的矩形 I",
+        "topicTags": [
+          {
+            "id": "n16hs",
+            "name": "Binary Indexed Tree",
+            "slug": "binary-indexed-tree",
+            "nameTranslated": "树状数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nytfd",
+            "name": "Segment Tree",
+            "slug": "segment-tree",
+            "nameTranslated": "线段树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "vlt55",
+            "name": "Geometry",
+            "slug": "geometry",
+            "nameTranslated": "几何",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "2men8m",
+            "name": "Enumeration",
+            "slug": "enumeration",
+            "nameTranslated": "枚举",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5307692307692308,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3653,
+        "paidOnly": false,
+        "questionFrontendId": "3381",
+        "status": "TO_DO",
+        "title": "Maximum Subarray Sum With Length Divisible by K",
+        "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k",
+        "translatedTitle": "长度可被 K 整除的子数组的最大元素和",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "kr7kj3",
+            "name": "Prefix Sum",
+            "slug": "prefix-sum",
+            "nameTranslated": "前缀和",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.3567004757203124,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3689,
+        "paidOnly": false,
+        "questionFrontendId": "3382",
+        "status": "TO_DO",
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "titleSlug": "maximum-area-rectangle-with-point-constraints-ii",
+        "translatedTitle": "用点构造面积最大的矩形 II",
+        "topicTags": [
+          {
+            "id": "n16hs",
+            "name": "Binary Indexed Tree",
+            "slug": "binary-indexed-tree",
+            "nameTranslated": "树状数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nytfd",
+            "name": "Segment Tree",
+            "slug": "segment-tree",
+            "nameTranslated": "线段树",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "vlt55",
+            "name": "Geometry",
+            "slug": "geometry",
+            "nameTranslated": "几何",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.24140640345708111,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3718,
+        "paidOnly": true,
+        "questionFrontendId": "3383",
+        "status": "TO_DO",
+        "title": "Minimum Runes to Add to Cast Spell",
+        "titleSlug": "minimum-runes-to-add-to-cast-spell",
+        "translatedTitle": "施法所需最低符文数量",
+        "topicTags": [
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n30w2",
+            "name": "Breadth-First Search",
+            "slug": "breadth-first-search",
+            "nameTranslated": "广度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n6a2i",
+            "name": "Union Find",
+            "slug": "union-find",
+            "nameTranslated": "并查集",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "ns19t",
+            "name": "Topological Sort",
+            "slug": "topological-sort",
+            "nameTranslated": "拓扑排序",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.2643020594965675,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3719,
+        "paidOnly": true,
+        "questionFrontendId": "3384",
+        "status": "TO_DO",
+        "title": "Team Dominance by Pass Success",
+        "titleSlug": "team-dominance-by-pass-success",
+        "translatedTitle": "球队传球成功的优势得分",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.8024691358024691,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3693,
+        "paidOnly": true,
+        "questionFrontendId": "3385",
+        "status": "TO_DO",
+        "title": "Minimum Time to Break Locks II",
+        "titleSlug": "minimum-time-to-break-locks-ii",
+        "translatedTitle": "破解锁的最少时间 II",
+        "topicTags": [
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.22086570477247502,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3632,
+        "paidOnly": false,
+        "questionFrontendId": "3386",
+        "status": "TO_DO",
+        "title": "Button with Longest Push Time",
+        "titleSlug": "button-with-longest-push-time",
+        "translatedTitle": "按下时间最长的按钮",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.41458750682935713,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3613,
+        "paidOnly": false,
+        "questionFrontendId": "3387",
+        "status": "TO_DO",
+        "title": "Maximize Amount After Two Days of Conversions",
+        "titleSlug": "maximize-amount-after-two-days-of-conversions",
+        "translatedTitle": "两天自由外汇交易后的最大货币数",
+        "topicTags": [
+          {
+            "id": "n8id6",
+            "name": "Depth-First Search",
+            "slug": "depth-first-search",
+            "nameTranslated": "深度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "n30w2",
+            "name": "Breadth-First Search",
+            "slug": "breadth-first-search",
+            "nameTranslated": "广度优先搜索",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "nkrae",
+            "name": "Graph",
+            "slug": "graph",
+            "nameTranslated": "图",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6657702650787553,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3686,
+        "paidOnly": false,
+        "questionFrontendId": "3388",
+        "status": "TO_DO",
+        "title": "Count Beautiful Splits in an Array",
+        "titleSlug": "count-beautiful-splits-in-an-array",
+        "translatedTitle": "统计数组中的美丽分割",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.28790931989924434,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3638,
+        "paidOnly": false,
+        "questionFrontendId": "3389",
+        "status": "TO_DO",
+        "title": "Minimum Operations to Make Character Frequencies Equal",
+        "titleSlug": "minimum-operations-to-make-character-frequencies-equal",
+        "translatedTitle": "使字符频率相等的最少操作次数",
+        "topicTags": [
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "pxpqcm",
+            "name": "Counting",
+            "slug": "counting",
+            "nameTranslated": "计数",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "2men8m",
+            "name": "Enumeration",
+            "slug": "enumeration",
+            "nameTranslated": "枚举",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.3623143564356436,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3726,
+        "paidOnly": true,
+        "questionFrontendId": "3390",
+        "status": "TO_DO",
+        "title": "Longest Team Pass Streak",
+        "titleSlug": "longest-team-pass-streak",
+        "translatedTitle": "最长团队传球连击",
+        "topicTags": [
+          {
+            "id": "pzpd7s",
+            "name": "Database",
+            "slug": "database",
+            "nameTranslated": "数据库",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4361948955916473,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3735,
+        "paidOnly": true,
+        "questionFrontendId": "3391",
+        "status": "TO_DO",
+        "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+        "titleSlug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+        "translatedTitle": "设计一个高效的层跟踪三维二进制矩阵",
+        "topicTags": [
+          {
+            "id": "nzbej",
+            "name": "Design",
+            "slug": "design",
+            "nameTranslated": "设计",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "qwy9jd",
+            "name": "Ordered Set",
+            "slug": "ordered-set",
+            "nameTranslated": "有序集合",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xp2oh0e",
+            "name": "Heap (Priority Queue)",
+            "slug": "heap-priority-queue",
+            "nameTranslated": "堆（优先队列）",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7820069204152249,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3685,
+        "paidOnly": false,
+        "questionFrontendId": "3392",
+        "status": "TO_DO",
+        "title": "Count Subarrays of Length Three With a Condition",
+        "titleSlug": "count-subarrays-of-length-three-with-a-condition",
+        "translatedTitle": "统计符合条件长度为 3 的子数组数目",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.6871170093186845,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3659,
+        "paidOnly": false,
+        "questionFrontendId": "3393",
+        "status": "TO_DO",
+        "title": "Count Paths With the Given XOR Value",
+        "titleSlug": "count-paths-with-the-given-xor-value",
+        "translatedTitle": "统计异或值为给定值的路径数目",
+        "topicTags": [
+          {
+            "id": "nizi1",
+            "name": "Bit Manipulation",
+            "slug": "bit-manipulation",
+            "nameTranslated": "位运算",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "d2tn7",
+            "name": "Dynamic Programming",
+            "slug": "dynamic-programming",
+            "nameTranslated": "动态规划",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "uw538v",
+            "name": "Matrix",
+            "slug": "matrix",
+            "nameTranslated": "矩阵",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5767262278890186,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3657,
+        "paidOnly": false,
+        "questionFrontendId": "3394",
+        "status": "TO_DO",
+        "title": "Check if Grid can be Cut into Sections",
+        "titleSlug": "check-if-grid-can-be-cut-into-sections",
+        "translatedTitle": "判断网格图能否被切割成块",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.39746111210441626,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3700,
+        "paidOnly": false,
+        "questionFrontendId": "3395",
+        "status": "TO_DO",
+        "title": "Subsequences with a Unique Middle Mode I",
+        "titleSlug": "subsequences-with-a-unique-middle-mode-i",
+        "translatedTitle": "唯一中间众数子序列 I",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "deo8r",
+            "name": "Math",
+            "slug": "math",
+            "nameTranslated": "数学",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "rwhb85",
+            "name": "Combinatorics",
+            "slug": "combinatorics",
+            "nameTranslated": "组合数学",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.4011713030746706,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "EASY",
+        "id": 3656,
+        "paidOnly": false,
+        "questionFrontendId": "3396",
+        "status": "TO_DO",
+        "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+        "titleSlug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+        "translatedTitle": "使数组元素互不相同所需的最少操作次数",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wzve3",
+            "name": "Hash Table",
+            "slug": "hash-table",
+            "nameTranslated": "哈希表",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.7131435793175449,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3620,
+        "paidOnly": false,
+        "questionFrontendId": "3397",
+        "status": "TO_DO",
+        "title": "Maximum Number of Distinct Elements After Operations",
+        "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+        "translatedTitle": "执行操作后不同元素的最大数量",
+        "topicTags": [
+          {
+            "id": "n7hqh",
+            "name": "Greedy",
+            "slug": "greedy",
+            "nameTranslated": "贪心",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "1v8x3g",
+            "name": "Sorting",
+            "slug": "sorting",
+            "nameTranslated": "排序",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.5396738335527278,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3690,
+        "paidOnly": false,
+        "questionFrontendId": "3398",
+        "status": "TO_DO",
+        "title": "Smallest Substring With Identical Characters I",
+        "titleSlug": "smallest-substring-with-identical-characters-i",
+        "translatedTitle": "字符相同的最短子字符串 I",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "2men8m",
+            "name": "Enumeration",
+            "slug": "enumeration",
+            "nameTranslated": "枚举",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.21589820768915036,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "HARD",
+        "id": 3706,
+        "paidOnly": false,
+        "questionFrontendId": "3399",
+        "status": "TO_DO",
+        "title": "Smallest Substring With Identical Characters II",
+        "titleSlug": "smallest-substring-with-identical-characters-ii",
+        "translatedTitle": "字符相同的最短子字符串 II",
+        "topicTags": [
+          {
+            "id": "dofid",
+            "name": "String",
+            "slug": "string",
+            "nameTranslated": "字符串",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "drclh",
+            "name": "Binary Search",
+            "slug": "binary-search",
+            "nameTranslated": "二分查找",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.46479367866549604,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      },
+      {
+        "difficulty": "MEDIUM",
+        "id": 3740,
+        "paidOnly": true,
+        "questionFrontendId": "3400",
+        "status": "TO_DO",
+        "title": "Maximum Number of Matching Indices After Right Shifts",
+        "titleSlug": "maximum-number-of-matching-indices-after-right-shifts",
+        "translatedTitle": "右移后的最大匹配索引数",
+        "topicTags": [
+          {
+            "id": "wg0rh",
+            "name": "Array",
+            "slug": "array",
+            "nameTranslated": "数组",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "do5us",
+            "name": "Two Pointers",
+            "slug": "two-pointers",
+            "nameTranslated": "双指针",
+            "__typename": "CommonTagNode"
+          },
+          {
+            "id": "xeyjfe6",
+            "name": "Simulation",
+            "slug": "simulation",
+            "nameTranslated": "模拟",
+            "__typename": "CommonTagNode"
+          }
+        ],
+        "frequency": null,
+        "isInMyFavorites": false,
+        "acRate": 0.18339100346020762,
+        "contestPoint": null,
+        "__typename": "ProblemSetQuestionNode"
+      }
+    ],
+    "totalLength": 4109,
+    "finishedLength": 0,
+    "hasMore": true
+  }
+}
