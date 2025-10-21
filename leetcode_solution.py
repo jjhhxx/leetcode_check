@@ -142,8 +142,8 @@ def get_submit_result(cookie, x_csrftoken, titleSlug, submission_id):
 
 
 if __name__ == '__main__':
-    cookie = "aliyungf_tc=4fcb9ad8d2279b07c2d8ec75957e12c7616c8d2df4b93417eb71b404e379bc94; sl-session=LsCfJ2Y192gD8lIFoYbdiA==; Hm_lvt_f0faad39bcf8471e3ab3ef70125152c3=1760945127; HMACCOUNT=4B622F56DCFDDDF6; gr_user_id=b4d75acc-cd78-49b2-9154-4746c526c1ca; _gid=GA1.2.322672405.1760946113; _bl_uid=mvm2RgtXyaFtjdwOpkRmfb5hI3Ua; Hm_lvt_fa218a3ff7179639febdb15e372f411c=1760962751; Hm_lpvt_fa218a3ff7179639febdb15e372f411c=1760962751; __appToken__=; messages=W1siX19qc29uX21lc3NhZ2UiLDAsMjUsIlx1NjBhOFx1NWRmMlx1N2VjZlx1NzY3Ylx1NTFmYSJdXQ:1vB14U:fC_9wGGd4lbkTDvRT1bqeXpcODsr0AN2bbY4T_Z0m3U; csrftoken=GiFSCt4MpqpfAARxwq9jrizT9q2pqJpD98G8URrYdUeqQyAZ0IPgoxi2Wmra8q4a; tfstk=g8-Eep10EDnekLNsACIz33yKwHSdqglXx315ELvld6fHNvEPEQA9Ve9o9URwNQKCO995E_fMs6OBRLOaphR4VkGKJLqPVgcjGmiXpvsRqjwMt9z_pT67ZuV5tcbGVTJ_C5hkppI8BsldRb9LU-PzZ_jkZGbGnTSuruAus1fOeTVhEkDwI1CGEJX3qPfGh9qutQjoQNfOEgfkZwDwI1Blq_D_hQALb17nCdvoiHDo0afDK1ru0-CC-2vQPoEvA9beqpfNL9-NLw5cryfh3HA6EHtdWVaO2dT2aUA-lPIeEejhhpnUbivH53W6VYaPtBKwIhbaho_erT7cqNyuqdSdaZxdmmVNBFvBrHdUUuXpAn_PMNku2asMcZYDT8HvIMXkwZKSMkCHEKKvlio_-ivwrI8P4eVRIXdJ2ePuzwXOQsMZQlp29ODXmpHgyzQZWO5jHxU8ywXOQsMZQzUR7nBNGxHA.; LEETCODE_SESSION=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfYXV0aF91c2VyX2lkIjoiODUyODU0MiIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImRqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kIiwiX2F1dGhfdXNlcl9oYXNoIjoiYzg4MjJkZTI0NGRmYWRmNzNiZjExODc0NGVlY2M0YWEzZWM0MWFjMzc3ZGE0YWUyYTIxNmM0MDkyMzZkMzE5MCIsImlkIjo4NTI4NTQyLCJlbWFpbCI6IiIsInVzZXJuYW1lIjoicmV2ZXJlbnQtN2Vha2V5anp6IiwidXNlcl9zbHVnIjoicmV2ZXJlbnQtN2Vha2V5anp6IiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUuY24vYWxpeXVuLWxjLXVwbG9hZC9kZWZhdWx0X2F2YXRhci5wbmciLCJwaG9uZV92ZXJpZmllZCI6dHJ1ZSwiZGV2aWNlX2lkIjoiMTFmYjZhOGZlMjA0YzgzY2Q1YTNlZjkyZjczZjM1MzQiLCJpcCI6IjExMy4yMDAuMTc0LjEyNiIsIl90aW1lc3RhbXAiOjE3NjEwMDk5NzYuMDk0Njc0NiwiZXhwaXJlZF90aW1lXyI6MTc2MzU3ODgwMCwidmVyc2lvbl9rZXlfIjowfQ.Q0BAbK1lUvNMq4MJqTOr78G8lhkod_AH-iqQj3_Mcig; a2873925c34ecbd2_gr_last_sent_sid_with_cs1=cf94fc0b-4ffd-4141-967f-824bb4e8b92a; a2873925c34ecbd2_gr_last_sent_cs1=reverent-7eakeyjzz; a2873925c34ecbd2_gr_session_id=cf94fc0b-4ffd-4141-967f-824bb4e8b92a; a2873925c34ecbd2_gr_session_id_sent_vst=cf94fc0b-4ffd-4141-967f-824bb4e8b92a; a2873925c34ecbd2_gr_cs1=reverent-7eakeyjzz; _gat=1; _ga=GA1.1.1191492404.1760945127; Hm_lpvt_f0faad39bcf8471e3ab3ef70125152c3=1761010037; _ga_PDVPZYN3CW=GS2.1.s1761007986$o5$g1$t1761010036$j60$l0$h0"
-    x_csrftoken = "GiFSCt4MpqpfAARxwq9jrizT9q2pqJpD98G8URrYdUeqQyAZ0IPgoxi2Wmra8q4a"
+    cookie = ""
+    x_csrftoken = ""
 
     question_obj, code_obj = load_question_obj(), load_code_obj()
     completed_obj = load_completed()
@@ -179,3 +179,4 @@ if __name__ == '__main__':
         except Exception as e:
             print(e)
             update_code_errored(i)
+
