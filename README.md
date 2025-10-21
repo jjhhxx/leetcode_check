@@ -14,9 +14,11 @@
   ```
 - 浏览器登录你的 leetcode 账号，找到自己的 cookie 和 x-csrftoken
 - 将 cookie 和 x-csrftoken 硬编码到 leetcode_solution.py 中，执行该文件即可
+- 在 leetcode 上自己跑一个提交，看看自己的 user-agent；把这个值替换到 leetcode_solution.py 去
 - ./persistence/completed.txt 中是已经执行了的 id（txt 文件中的 start of xx）
 - ./persistence/succeeded.txt 中是校验通过的 id（txt 文件中的 start of xx）
 - ./persistence/failed.txt 中是校验不通过的 id（txt 文件中的 start of xx），基本上都是格式问题，需要修改一下提供的代码手动在官网上根据题号跑一下
 - ./persistence/errored.txt 中是接口异常的 id（txt 文件中的 start of xx），检查一下是哪里有问题
 - ./persistence/paidOnly.txt 中是付费的题目，不管
 - leetcode_solution.py 中有两个限制需要注意，一个是 counts 限制一次跑 500 个接口，跑完建议检查一下 cookie 和 账户有没有被限制提交；限制了就换一个。第二个限制是接口之间的时间间隔，建议不要再改小了，容易被识别成 many requests
+
