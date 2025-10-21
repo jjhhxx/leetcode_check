@@ -21,5 +21,5 @@
 - ./persistence/failed.txt 中是校验不通过的 id（txt 文件中的 start of xx），基本上都是格式问题，需要修改一下提供的代码手动在官网上根据题号跑一下
 - ./persistence/errored.txt 中是接口异常的 id（txt 文件中的 start of xx），检查一下是哪里有问题
 - ./persistence/paidOnly.txt 中是付费的题目，不管
-- leetcode_solution.py 中有两个限制需要注意，一个是 counts 限制一次跑 500 个接口，跑完建议检查一下 cookie 和 账户有没有被限制提交；限制了就换一个。第二个限制是接口之间的时间间隔，建议不要再改小了，容易被识别成 many requests
+- leetcode_solution.py 中有两个限制需要注意，一个是 counts 限制一次跑 500 个接口，跑完建议检查一下 cookie 和 账户有没有被限制提交；限制了就换一个，没限制就继续运行，已经检查过的不会再检查。第二个限制是接口之间的时间间隔，建议不要再改小了，容易被识别成 many requests
 
